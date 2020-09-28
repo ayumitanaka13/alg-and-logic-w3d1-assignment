@@ -4,3 +4,5 @@
 const gcdRecursive = function(a, b) {
     
 }        
+
+console.log(gcdRecursive(15, 60)); //15
